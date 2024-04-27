@@ -2016,5 +2016,10 @@ a:focus {
         flex: 0 0 100%;
         max-width: 100%;
     }
+
+    .portfolio .portfolio-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 }
 
