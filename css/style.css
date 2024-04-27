@@ -692,7 +692,6 @@ a:focus {
     position: relative;
     margin-bottom: 30px;
     overflow: hidden;
-    : .3s;
 }
 
 .class .class-wrap {
@@ -2012,4 +2011,10 @@ a:focus {
         margin: 5px 0;
         text-align: center;
     }
+
+    .class .class-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 }
+
